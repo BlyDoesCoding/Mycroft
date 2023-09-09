@@ -1,4 +1,4 @@
-module jelly
+module mycroft
 
 go 1.23
 
