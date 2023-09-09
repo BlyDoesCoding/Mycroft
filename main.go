@@ -3,7 +3,7 @@ package main
 import (
 	"strings"
 
-	"fyne.io/fyne/canvas"
+
 	"fyne.io/fyne/v2/app"
 	"fyne.io/fyne/v2/container"
 
