@@ -13,7 +13,7 @@ import (
 
 func main() {
 	a := app.New()
-	w := a.NewWindow("Hello World")
+	w := a.NewWindow("Mycroft")
 
 	var characters = []string{
 		"A", "B", "C", "D", "E", "F", "G", "H", "I", "J", "K", "L", "M",
@@ -31,8 +31,7 @@ func main() {
 		charToPosition[char] = i + 1
 	}
 
-	image := canvas.NewImageFromFile("bg.png")
-	image.FillMode = canvas.ImageFillOriginal
+
 
 	page_1 := container.New(
 		layout.NewVBoxLayout(),
