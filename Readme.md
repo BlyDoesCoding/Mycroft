@@ -1,6 +1,6 @@
 # Mycroft
 
-![Mycroft Icon](jellyfish.png)
+![Mycroft Icon](logo.png)
 
 Mycroft is a fun and simple Go-based application that translates ASCII characters into Jellyfish Emojis and vice versa. This project is a small side endeavor to improve Go programming skills and explore the world of whimsical text transformations. Please note that Mycroft is not optimized for production use but serves as a fun coding exercise.
 
